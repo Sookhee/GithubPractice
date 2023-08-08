@@ -1,4 +1,4 @@
-it package com.github.sookhee.githubpractice
+package com.github.sookhee.githubpractice
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
